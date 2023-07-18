@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varnika Rathee</h1>
 <h3 align="center">A passionate android and frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Codelit (Android based project).](https://github.com/varnikarathee/Codelit/tree/master)
+- 🔭 I’m currently working on [CodeFriend (Android based project).](https://github.com/varnikarathee/Codelit/tree/master)
 
 - 🌱 I’m currently learning **Android Development in Kotlin**
 
